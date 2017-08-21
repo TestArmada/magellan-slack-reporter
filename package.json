@@ -27,16 +27,16 @@
     "babel-cli": "^6.18.0",
     "babel-eslint": "^7.1.1",
     "babel-preset-es2015": "^6.18.0",
-    "eslint": "^3.12.2",
+    "eslint": "^4.5.0",
     "eslint-config-walmart": "^1.1.0",
     "eslint-plugin-filenames": "^1.1.0",
     "lodash": "^4.6.1",
     "testarmada-logger": "^1.1.1"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "chai-as-promised": "^6.0.0",
-    "codecov": "^1.0.1",
+    "chai": "^4.1.1",
+    "chai-as-promised": "^7.1.1",
+    "codecov": "^2.3.0",
     "istanbul": "^0.4.5",
     "mocha": "^3.2.0"
   }
