@@ -1,4 +1,4 @@
-
+"use strict";
 
 const help = require("./help");
 const logger = require("testarmada-logger");
