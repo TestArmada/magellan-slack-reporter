@@ -33,11 +33,5 @@
     "lodash": "^4.6.1",
     "testarmada-logger": "^1.1.1"
   },
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "chai-as-promised": "^6.0.0",
-    "codecov": "^3.6.5",
-    "istanbul": "^0.4.5",
-    "mocha": "^3.2.0"
-  }
+  "devDependencies": {}
 }
